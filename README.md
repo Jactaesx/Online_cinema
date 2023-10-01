@@ -1,4 +1,4 @@
-# SQL_tasks
+# Online_cinema
 
 ## Задания:
 
